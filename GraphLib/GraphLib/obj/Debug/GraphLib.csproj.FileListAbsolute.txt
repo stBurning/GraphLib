@@ -1,5 +1,7 @@
-D:\Program\JetBrains Rider 2019.2.3\Project\GraphLib\GraphLib\bin\Debug\GraphLib.exe
-D:\Program\JetBrains Rider 2019.2.3\Project\GraphLib\GraphLib\bin\Debug\GraphLib.pdb
-D:\Program\JetBrains Rider 2019.2.3\Project\GraphLib\GraphLib\obj\Debug\GraphLib.csprojAssemblyReference.cache
-D:\Program\JetBrains Rider 2019.2.3\Project\GraphLib\GraphLib\obj\Debug\GraphLib.exe
-D:\Program\JetBrains Rider 2019.2.3\Project\GraphLib\GraphLib\obj\Debug\GraphLib.pdb
+C:\Users\KSUstinov\source\repos\GraphLib\GraphLib\bin\Debug\GraphLib.exe.config
+C:\Users\KSUstinov\source\repos\GraphLib\GraphLib\bin\Debug\GraphLib.exe
+C:\Users\KSUstinov\source\repos\GraphLib\GraphLib\bin\Debug\GraphLib.pdb
+C:\Users\KSUstinov\source\repos\GraphLib\GraphLib\obj\Debug\GraphLib.csprojAssemblyReference.cache
+C:\Users\KSUstinov\source\repos\GraphLib\GraphLib\obj\Debug\GraphLib.csproj.CoreCompileInputs.cache
+C:\Users\KSUstinov\source\repos\GraphLib\GraphLib\obj\Debug\GraphLib.exe
+C:\Users\KSUstinov\source\repos\GraphLib\GraphLib\obj\Debug\GraphLib.pdb
